@@ -12,5 +12,5 @@ jobs:
       with:
         server: files.000webhost.com
         username: projetautomatisationtests
-        password: P4$$w0rd**%%
+        password: azertyuiop
         server-dir : public_html/
